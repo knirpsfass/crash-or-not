@@ -21,7 +21,7 @@
 	let emojis: string[] = [];
 	let drops: Drop[] = [];
 
-	const purchasePrice = 3.95;
+	const purchasePrice = 3.0;
 
 	async function fetchKurs() {
 		try {
